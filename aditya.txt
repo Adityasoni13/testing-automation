@@ -1,0 +1,9 @@
+1. completed 15 APIs test case sceanrios in excel sheet for Jobeze 
+2. Completed 15 APIs testing on Postman tool
+3. Learning Pytest concepts:
+  Indtroduction to Pytest
+  Selecting Tests By Markers (Tags)
+  Setup & Teardown (fixtures)
+  learn to generate PyTest HTML Report
+  Understand the pytest framework- project structure overview
+  How To Use The Provided Code
