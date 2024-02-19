@@ -7,3 +7,6 @@
   learn to generate PyTest HTML Report
   Understand the pytest framework- project structure overview
   How To Use The Provided Code
+  i am learing Git and Git bash.
+  have a good day 
+  i have total experience of 2 years in QA as automation and manual testing.
